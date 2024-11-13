@@ -12,7 +12,7 @@ https://github.com/EullerHenrique/Nubank
 
 https://github.com/EullerHenrique/Clinic_Life
 
-# Larabel
+# Laravel
 
 ## Start
 
