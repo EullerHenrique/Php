@@ -16,8 +16,8 @@ https://github.com/EullerHenrique/Clinic_Life
 
 ## Start
 
-https://github.com/EullerHenrique/poc_laravel_start
+https://github.com/EullerHenrique/poc_v1_laravel_start
 
 ## Paginação
 
-https://github.com/EullerHenrique/poc_laravel_api_paginacao
+https://github.com/EullerHenrique/poc_v2_laravel_api_paginacao
